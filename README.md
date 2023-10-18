@@ -32,7 +32,7 @@ import (
 )
 
 func main() {
-  err := envloader.LoadEnv("congig.env")
+  err := envloader.LoadEnv("config.env")
   if err != nil {
     log.Fatal("Error loading config.env file")
   }
