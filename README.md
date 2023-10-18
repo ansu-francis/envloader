@@ -2,14 +2,6 @@
 
 A Go  project hich loads env vars from a .env file.
 
-## Installation
-
-As a library
-
-```shell
-go get github.com/ansu-francis/envloader
-```
-
 ## Usage
 
 Add your application configuration to your `config.env` file in the root of your project:
