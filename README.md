@@ -7,7 +7,7 @@ A Go  project hich loads env vars from a .env file.
 As a library
 
 ```shell
-go get github.com/joho/godotenv
+go get github.com/ansu-francis/envloader
 ```
 
 ## Usage
